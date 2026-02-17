@@ -1,7 +1,7 @@
 # March-Madness-Study
 This is a multi-year Independent study of which stats predict the best march madness brackets. 25 different brackets were created in 2024 and 2025 based on various statistics and methods. 14 of the brackets were produced merely by picking the team who had higher statitics in certain categopries*. The other 12 brackets were picked through various methods listed in full detail in the other document in this repository. Some of the methods such as conference prestige are more analytical, while others are for fun such as mascot picks.
 
-##Overall Results
+## Overall Results
 
 Only two methods have correctly chosen the correct champion so far, the Mealor Method, and my own personal guess. These are also the top two brackets point-wise across multiple years. There has been only one bracket based off a single statistic, that consistently has a total of above 2500 points. The top-25 Away-Neutral record bracket has chosen one of the last two champions correct, and 75% of the final four games the last two years. Five other brackets have predicted one of the last 2 champions: Total offensive efficiency,
 points per play vs top 35 teams, Total Efficiency vs top 35 teams, Offensive efficiency vs top 35 teams, and SEC / conference prestige.
