@@ -1,0 +1,104 @@
+Intro:
+This study uses 24 different methods to create March Madness brackets on espn.com. There are 17 methods using statistics from barttorvik.com,
+and the other 7 are picked by other methods. Many of the statistical methods use both offensive and defensive forms of a certain statistics, and for these, I created graphs with the 
+offensive side on the x axis, and the defensive stats on the y axis. The offensive statistics were relied on more, due to the fact that the past research of this project has 
+shown that teams with better offensive statistics do better. Therefore, when teams are in nearly identical spots on the graph, the team with better offensive statistics 
+will be picked first. All 24 methods are listed, and explained below:
+
+
+---------------------------------------------------------------------Serious Qualitative Methods---------------------------------------------------------------------
+1) Mealor Method bracket:
+- Developed by my high school calculus teacher, Mr. Mealor. 
+- move all 1 and 2 seeds to the elite eight first, then choose the rest of the games as you wish
+- method I use for any bracket pools I enter
+
+2) My guess:
+- my own personal guess from the statistics, and my own knowledge of the teams
+
+3) Conference Prestige:
+- For every game, pick the team from the conference with the most teams in the tournament
+- if two teams are in the same conference, choose the one with the higher seed  
+- if they have the same seed and conference, choose the team with the higher end-of-year ranking from Barttorvik.com
+
+4) Upset:
+- The lower seed has to win every first round game
+
+
+
+---------------------------------------------------------------------Fun Qualitative Methods---------------------------------------------------------------------
+5) Emotional picks:
+- pick every game based on what you want to happen 
+- i.e.(Auburn is always the champion, and their rivals all lose in the first round)
+
+
+6) Coin Flip:
+- flip a coin to decide every game
+
+7)Mascot Picks:
+- pick games based on which mascot I like the most
+
+
+
+-------------------------------------------------------------------------Quantitative Methods------------------------------------------------------------------------------------
+8) Top 25 away-nuetral record
+- Pick the team with the best record against top 25 teams in away or nuetral site games
+- value top 15 wins as two wins 
+- broadest statistic to show how teams have performed in elite-eight-level games in nuetral site atmospheres or more difficult away atmospheres
+
+9) Total offensive efficiency
+- pick the team with higher total offensive efficiency according to barttorvik's offensive efficiency rating 
+
+10) points per play vs top 25 teams
+- use bartorvik's plotting program to make a graph with the x-axis being offensive points-per-play and the y axis being defensive points-per-play allowed both against top 25 teams
+- pick each game by which team has the highest offensive - defensive ppg according to the graph
+
+11) Total Efficiency vs top 25 teams
+- pick the team with higher total efficiency against top 25 teams
+
+12) Bart's picks
+- pick the team with a higher base ranking from barttorvik
+
+13) Offensive efficiency vs top 25 teams
+- pick the team with higher offensive efficiency against top 25 teams
+
+14) Total overall efficiency
+- pick the team with higher total efficiency
+
+15) Total defensive efficiency
+- pick the team with the highest defensive efficiency
+
+16) height
+- pick the team based on the highest average height 
+
+17) Talent-experience picks
+- use barttorvik.com to create a graph with talent as the x axis, and experience as the y axis.
+- pick the team who is higher to the top right, valuing experience slightly more than talent
+
+18) Turnover rate vs top 25 teams
+- create a graph with offensive turnover rate as the x axis and defensive turnover rate forced as the y axis all against top 25 teams
+- pick the team highest to the top right 
+
+19) Field goal percentage vs top 25 teams
+- create a graph with offensive field goal percentage as the x axis and defensive field goal percentage as the y axis all against top 25 teams
+- pick the team highest to the top right, weighing offense over defense
+
+20) Defensive efficiency vs top 25 teams
+- pick the team based on the highest defensive efficiency against top 25 teams
+
+21) 3 point % vs top 25 teams
+- create a graph with offensive 3 point percentage as the x axis and defensive 3 point percentage as the y axis all against top 25 teams
+- pick the team highest to the top right weighing offense over defense
+
+22) Rebound % vs top 25
+- create a graph with offensive rebound rate as the x axis and defensive rebound percentage as the y axis all against top 25 teams
+- pick the team highest to the top right weighing offense over defense
+
+23) Free throw % vs top 25 AN
+- pick the team with the highest free throw percentage in top 25 away or nuetral site games
+
+24) Fouls per game vs top 25
+- create a graph with fouls per game as the x axis and fouls against (fouls drawn) per game as the y axis all against top 25 teams
+- pick the team highest to the top right weighing offense over defense
+
+
+
