@@ -7,12 +7,12 @@ Only two methods have correctly chosen the correct champion so far, the Mealor M
 points per play vs top 35 teams, Total Efficiency vs top 35 teams, Offensive efficiency vs top 35 teams, and SEC / conference prestige.
 
 
-##2025 Results
+## 2025 Results
 
 2025 was a year with few upsets, which is why the Mealor Method was the best bracket, scoring 1530 points. Only the Mealor Method and Conference Prestige predicted Florida as the champion. Top 25 away-nuetral record, points per play vs top 35 teams, total Efficiency vs top 35 teams, Bart's picks, offensive efficiency vs top 35 teams, conference prestige, and total overall efficiency all produced good brackets in the range of 1100-1300 points.
 
 
-##2024 Results
+## 2024 Results
 
 Many statistical brackets performed well, as UConn was a clear leader in many statisticasl categories, and more so than most previous champions. The bracket from total offensive efficiency produced the best bracket in the last two years from one statistic with 1510 points. Top 25 away-nuetral record, total offensive efficiency, points per play vs top 35 teams, total efficiency vs top 35 teams, and offensive efficiency vs top 35 teams all predicted UConn as the correct champion. Top 25 away-nuetral record, points per play vs top 35 teams, total efficiency vs top 35 teams, and offensive efficiency vs top 35 teams all produced brackets scoring between 1050-1400 points.
 
